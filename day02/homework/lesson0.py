@@ -1,0 +1,7 @@
+print("mate") 
+print("ana") 
+print("bacho") 
+print("gega") 
+print("andria") 
+print("gio") 
+print("dachi") 
