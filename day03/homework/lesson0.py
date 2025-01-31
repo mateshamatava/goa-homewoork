@@ -31,4 +31,5 @@ age = 12
 print(fullname * age ) 
 
 # deklaracia ari roca magalitad age  mivcemt monacemta tips integers an name mivcemt strings 
-# inicializacia aris shekmna da reincializacia aris tavidan shekmna
+# inicializacia aris shekmna da reincializacia aris tavidan shekmna 
+
